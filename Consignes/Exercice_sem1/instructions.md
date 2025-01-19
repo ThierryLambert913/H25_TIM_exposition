@@ -1,4 +1,4 @@
-#Exercice semaine 1: Fiche de présentation
+# Exercice semaine 1: Fiche de présentation
 
 Afin de vous familiariser avec GitHub, vous devrez:
 
@@ -18,4 +18,4 @@ Afin de vous familiariser avec GitHub, vous devrez:
    Prendre un égoportrait ("selfie"), le télécharger dans votre dossier, puis l'intégrer dans votre fiche de présentation.
    Vous pouvez aussi insérez un vidéo et un lien web
 
-  Référez-vous à l'exemple qui contient aussi les liens pour l'utilsiation du language *markdown*.
+  Référez-vous à l'exemple qui contient aussi les liens pour l'utilisation du language *markdown*.
