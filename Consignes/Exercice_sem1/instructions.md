@@ -1,4 +1,4 @@
-Exercice semaine 1: Fiche de présentation
+#Exercice semaine 1: Fiche de présentation
 
 Afin de vous familiariser avec GitHub, vous devrez:
 
