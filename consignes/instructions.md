@@ -1,4 +1,4 @@
-#Exercice semaine 1: Fiche de présentation
+# Exercice semaine 1: Fiche de présentation
 Afin de vous familiariser avec GitHub, vous devrez:
 
 1) Créer votre répertoire GitHub **H25_V11_inspirations_VOTRENOMDEFAMILLE**<br>
