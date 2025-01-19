@@ -6,7 +6,7 @@ Afin de vous familiariser avec GitHub, vous devrez:
    **H25_V11_inspirations_VOTRENOMDEFAMILLE**
    Assurez-vous que vous avez coché l'option ##public## afin qu'il puisse être vu.
 
-2) Créer un dossier Exercice_sem01
+3) Créer un dossier Exercice_sem01
    Attention: pour qu'un dossier soit créé (et faire une arborescence), le nom du dossier doit être suivi d'une barre oblique **ET** d'un nom de dossier (avec une 
    extension, *md*)
    Ne pas oublier de créer un README.md pour chaque dossier et sous-dossier.
