@@ -4,7 +4,7 @@ Afin de vous familiariser avec GitHub, vous devrez:
 
 1) Créer votre répertoire GitHub
    **H25_V11_inspirations_VOTRENOMDEFAMILLE**<br>
-   Assurez-vous que vous avez coché l'option ##public## afin qu'il puisse être vu.
+   Assurez-vous que vous avez coché l'option *public* afin qu'il puisse être vu.
 
 3) Créer un dossier Exercice_sem01
    Attention: pour qu'un dossier soit créé (et faire une arborescence), le nom du dossier doit être suivi d'une barre oblique **ET** d'un nom de dossier (avec une 
