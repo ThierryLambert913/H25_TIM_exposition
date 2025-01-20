@@ -9,9 +9,9 @@
 ## OBJECTIFS POURSUIVIS
 - [ ] Effectuer la recherche documentaire: Type d'information à rechercher, méthodes de collecte, collecte de l'information, pertinence et qualité des sources.
 - [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
+- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'information, produire des rapports pertinents et explicites, communiquer efficacement ses idées
       
-## MÉTHODE (Consulter la fiche banque_inspirations/documentation.md pour la méthode et les contenus détaillées)
+## MÉTHODE ()
 - [ ] Visiter en groupe les expositions du Centre des sciences  lors du cours de la semaine 2
 - [ ] Observer et expérimenter l'ensemble des dispositifs présents
 - [ ] Prendre des notes
@@ -19,6 +19,7 @@
 - [ ] Faire des croquis
 - [ ] Faire de courts vidéos
 - [ ] Poser des questions à la professeure ou au médiateur
+- [ ] Consulter la fiche banque_inspirations/documentation.md pour la méthode et les contenus détaillées
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
@@ -36,6 +37,7 @@
 | Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses, rideaux ou cloisons...)            | 
 | Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci        | 
 | :heart: Ce qui vous a plu, vous a donné des idées et pourquoi - justifications   | Éléments pertinents       | 
+
 
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
