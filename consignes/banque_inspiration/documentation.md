@@ -58,10 +58,3 @@ Tant pour la création des dossiers et fichiers que pour le contenu développé,
 | Références     |          |hyperliens vers les sites consultés  |
 
 
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grilles d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
-- Exhaustivité des informations répertoriées
-- Organisation des données
-- Présentation de l'information
-- Communication des idées
-
-
