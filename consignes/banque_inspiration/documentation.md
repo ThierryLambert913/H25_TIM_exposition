@@ -15,7 +15,7 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
 - [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
+- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'information, produire des rapports pertinents et explicites, communiquer efficacement ses idées
 
   
 
