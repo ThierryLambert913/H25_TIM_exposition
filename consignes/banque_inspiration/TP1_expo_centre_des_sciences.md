@@ -19,7 +19,7 @@
 - [ ] Faire des croquis
 - [ ] Faire de courts vidéos
 - [ ] Poser des questions à la professeure ou au médiateur
-- [ ] Consulter la fiche banque_inspirations/documentation.md pour la méthode et les contenus détaillées
+- [ ] Consulter la fiche banque_inspiration/documentation.md pour la méthode et les contenus détaillées
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
