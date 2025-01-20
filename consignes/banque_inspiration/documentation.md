@@ -3,7 +3,13 @@
 
 
 # LA BANQUE D'INSPIRATIONS 
+Aller à la rencontre d’œuvres et de dispositifs multimédias en exposition permet de se constituer une véritable banque d’inspirations pour la conception de ses projets. 
+Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productions multimedias. Vous documenterez la mise en espace, les composantes et l’expérience vécue. Les documents créés pour la mise en exposition de ces œuvres et dispositifs seront analysés. 
+Ces données recueillies seront rigoureusement organisées pour permettre une sauvegarde et une transmission efficaces de l’information. Votre banque d'inspirations, organisée en répertoire GitHub (repository) rassemblera ces informations ainsi que celles sur votre expérience.  
+
+La réalisation de cette banque d'inspirations est une introduction à la production de documentation plus compléete de vos futures créations.
 Votre banque d'inspirations, organisée en répertoire Github (*repository*) rassemblera les informations sur ces oeuvres et dispositifs ainsi que sur votre expérience. La réalisation de cette banque d'inspirations est une introduction à la production de documentation plus complète de vos futures créations multimédias.  
+
 #### DANS VOTRE *REPOSITORY* : H25_V11_inspirations_VOTRENOMDEFAMILLE
 
 ## OBJECTIFS POURSUIVIS 
