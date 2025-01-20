@@ -3,12 +3,8 @@
 ## (Répertoire GitHub) 15% (REMISE semaine 5)
 
 # LA BANQUE D'INSPIRATIONS
-
-Aller à la rencontre d’œuvres et de dispositifs multimédias en exposition permet de se constituer une véritable banque d’inspirations pour la conception de ses projets. 
-Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productions multimedias. Vous documenterez la mise en espace, les composantes et l’expérience vécue. Les documents créés pour la mise en exposition de ces œuvres et dispositifs seront analysés. 
-Ces données recueillies seront rigoureusement organisées pour permettre une sauvegarde et une transmission efficaces de l’information. Votre banque d'inspirations, organisée en répertoire GitHub (repository) rassemblera ces informations ainsi que celles sur votre expérience.  
-La réalisation de cette banque d'inspirations est une introduction à la production de documentation plus compléete de vos futures créations.
-
+ [ ] Dans votre *repository*, créer le **dossier** voulu, puis l'arborescence de ses fichiers et dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
+- [ ] Pour chacune des expositions visitées, créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom de l'oeuvre ou du dispositif)
 ## OBJECTIFS POURSUIVIS
 - [ ] Effectuer la recherche documentaire: Type d'information à rechercher, méthodes de collecte, collecte de l'information, pertinence et qualité des sources.
 
