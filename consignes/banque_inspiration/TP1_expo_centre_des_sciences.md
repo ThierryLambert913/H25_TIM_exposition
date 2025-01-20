@@ -25,6 +25,16 @@
 | Nom de l'exposition ou de l'événement|Affiche de l'exposition|
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
+
+
+## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
+- Exhaustivité des informations répertoriées
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
+
+
+
 | Date de votre visite    | N/A           | 
 | Titre du dispositif choisi| Vue d'ensemble du dispositif  | 
 | Nom de la firme    | texte de présentation ou explicatif       | 
