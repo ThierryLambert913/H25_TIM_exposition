@@ -9,7 +9,7 @@
 ## OBJECTIFS POURSUIVIS
 - [ ] Effectuer la recherche documentaire: Type d'information à rechercher, méthodes de collecte, collecte de l'information, pertinence et qualité des sources.
 
-## MÉTHODE
+## MÉTHODE (Consulter la fiche banque_inspirations/documentation.md pour la méthode et les contenus détaillées)
 - [ ] Visiter en groupe les expositions du Centre des sciences  lors du cours de la semaine 2
 - [ ] Observer et expérimenter l'ensemble des dispositifs présents
 - [ ] Prendre des notes
