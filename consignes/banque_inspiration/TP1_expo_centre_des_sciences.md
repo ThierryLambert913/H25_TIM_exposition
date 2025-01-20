@@ -25,16 +25,6 @@
 | Nom de l'exposition ou de l'événement|Affiche de l'exposition|
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
-
-
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
-- Exhaustivité des informations répertoriées
-- Organisation des données
-- Présentation de l'information
-- Communication des idées
-
-
-
 | Date de votre visite    | N/A           | 
 | Titre du dispositif choisi| Vue d'ensemble du dispositif  | 
 | Nom de la firme    | texte de présentation ou explicatif       | 
@@ -46,3 +36,11 @@
 | Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que le dispositif soit présenté (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses, rideaux ou cloisons...)            | 
 | Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci        | 
 | :heart: Ce qui vous a plu, vous a donné des idées et pourquoi - justifications   | Éléments pertinents       | 
+
+
+## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
+- Exhaustivité des informations répertoriées
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
+
