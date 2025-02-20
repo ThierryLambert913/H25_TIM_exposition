@@ -1,7 +1,7 @@
 # _*LE BUFFET*_
->Ou l'art de manger.
-Le buffet est une pièce qui cherche à démontrer l'importance de l'expérience culinaire dans la vie de tout les jours. De nombreux arguments sont lancés, tout d'abord
->Durant l'une de leur présentation, intitulé "le Buffet", j'ai put assisté à une présentation qui figurerait une expérience à la fois visuelle, mais aussi olfactive. ![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoBuffet.jpg)
+>Ou l'art de manger.Le buffet est une pièce qui cherche à démontrer l'importance de l'expérience culinaire dans la vie de tout les jours. De nombreux arguments sont lancés, tout d'abord
+
+Durant l'une de leur présentation, intitulé "le Buffet", j'ai put assisté à une présentation qui figurerait une expérience à la fois visuelle, mais aussi olfactive. ![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoBuffet.jpg)
 
 ![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoMechanisme.jpg) C'est trou, qui était dans les tables semblait envoyé des odeurs dépendant du sujet de la présentation.
 ![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoBuffetDebut1.jpg)
