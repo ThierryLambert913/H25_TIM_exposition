@@ -8,6 +8,9 @@ L'art de manger se démontre souvent dans la vie des gens lorsque ceux-ci partic
 L'art culinaire n'est pas uniquement réservé a ceux qui veulent déguster les plats, car celui-ci est aussi dédié a ceux qui prépare c'est dit plats. Durant l'une de leur présentation, intitulé "le Buffet", j'ai put assisté à une présentation qui figurerait une expérience à la fois visuelle, mais aussi olfactive. ![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoBuffet.jpg)
 
 ![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoMechanisme.jpg) C'est trou, qui était dans les tables semblait envoyé des odeurs dépendant du sujet de la présentation.
+![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoBuffetDebut1.jpg)
+![image](https://github.com/ThierryLambert913/H25_TIM_exposition/blob/main/TP1/media/PhotoBuffetDebut2.jpg)
+
 ## LES JOURS NORMAUX
 La  plus grande fréquence de rencontre entre le public et cet art est dans la vie de tout les jours. Dut aux fait que cet rencontre sont fréquent, il n'en est de sorte que la qualité de cette art est réduit.
 ## LES DÉSSERT
